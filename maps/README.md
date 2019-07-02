@@ -1,0 +1,1 @@
+The <map>.tar.gz files are cooked maps, directly importable into newer versions of Carla (0.9.2 onwards), using the importmaps.sh shell script.
