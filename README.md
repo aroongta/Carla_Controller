@@ -5,4 +5,4 @@ and 3D lidar point clouds).
 Additional scrips used to generation interaction sceanrios between Autonomous vehicle (AV) and Primary Other Autonmous Vehicle (POAV)
 is also added. As an example, it spawns the AV and POAV at an intersection at times sampled from a gaussian distribution and records
 the intensity of a collision, if occured.
-[Some pile from the controllers missing to avoid plaigirism, since publication pending.]
+[Some function descriptions from the controllers missing to avoid plaigirism, since publication pending.]
